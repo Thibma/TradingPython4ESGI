@@ -1,0 +1,20 @@
+17/11/2020 14:18:07 : Récupération du prix du ticker XXBTZEUR
+17/11/2020 14:18:12 : Récupération du prix du ticker XXBTZEUR
+17/11/2020 14:42:30 : Récupération du prix du ticker XXBTZEUR
+17/11/2020 14:42:36 : Récupération du prix du ticker XXBTZEUR
+17/11/2020 14:42:41 : Récupération du prix du ticker XXBTZEUR
+17/11/2020 14:42:47 : Récupération du prix du ticker XXBTZEUR
+17/11/2020 14:42:52 : Récupération du prix du ticker XXBTZEUR
+17/11/2020 15:42:59 : Sauvegarde de le moyenne des prix du ticker XXBTZEUR
+18/11/2020 08:54:18 : Récupération du prix du ticker XXBTZEUR
+18/11/2020 08:54:29 : Récupération du prix du ticker XXBTZEUR
+18/11/2020 08:54:39 : Récupération du prix du ticker XXBTZEUR
+18/11/2020 08:54:48 : Récupération du prix du ticker XXBTZEUR
+18/11/2020 08:54:58 : Récupération du prix du ticker XXBTZEUR
+18/11/2020 08:55:09 : Récupération du prix du ticker XXBTZEUR
+18/11/2020 08:55:19 : Récupération du prix du ticker XXBTZEUR
+18/11/2020 08:55:29 : Récupération du prix du ticker XXBTZEUR
+18/11/2020 08:55:40 : Récupération du prix du ticker XXBTZEUR
+18/11/2020 08:55:40 : Sauvegarde de le moyenne des prix du ticker XXBTZEUR
+18/11/2020 08:55:50 : Récupération du prix du ticker XXBTZEUR
+18/11/2020 09:11:27 : Récupération du prix du ticker XXBTZEUR
